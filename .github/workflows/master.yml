@@ -34,6 +34,7 @@ jobs:
           plugin_activity_load: 200
           plugin_activity_timestamps: yes
           plugin_activity_visibility: public
+          plugin_calendar: yes
           plugin_discussions: yes
           plugin_habits: yes
           plugin_habits_charts: yes
@@ -66,9 +67,13 @@ jobs:
           plugin_reactions_ignored: github-actions[bot], dependabot[bot], dependabot-preview[bot]
           plugin_reactions_limit: 250
           plugin_reactions_limit_issues: 100
+          plugin_repositories: yes
+          plugin_repositories_featured: yuange86/DevKa, yuange86/DK0ygWorld, yuange86/eller-time-bot, yuange86/to-the-new-world
           plugin_stargazers: yes
           plugin_stars: yes
           plugin_stars_limit: 10
+          plugin_traffic: yes
+          plugin_
           
           
           
