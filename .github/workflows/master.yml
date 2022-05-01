@@ -18,10 +18,12 @@ jobs:
           
           #Options?
           user: yuange86
-          base: header, activity, community, repositories, metadata
+          base: header, activity, community, metadata
           plugin_traffic: yes
           plugin_repositories: yes
           plugin_repositories_featured: yuange86/DevKa, yuange86/DK0ygWorld, yuange86/eller-time-bot, yuange86/to-the-new-world
+          plugin_introduction: yes
+          plugin_introduction_title: no
           plugin_ioscalendar: yes
           
           
