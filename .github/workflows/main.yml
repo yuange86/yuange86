@@ -7,7 +7,7 @@ on:
   # (optional) Run workflow when pushing on master/main
   push: 
     branches:
-      - "main"
+      - "master"
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
