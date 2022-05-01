@@ -73,7 +73,6 @@ jobs:
           plugin_stars: yes
           plugin_stars_limit: 10
           plugin_traffic: yes
-          plugin_
           
           
           
