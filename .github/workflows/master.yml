@@ -68,11 +68,8 @@ jobs:
           plugin_reactions_limit: 250
           plugin_reactions_limit_issues: 100
           plugin_repositories: yes
-          plugin_repositories_featured: yuange86/DevKa, yuange86/DK0ygWorld, yuange86/eller-time-bot, yuange86/to-the-new-world
+          plugin_repositories_featured: yuange86/DevKa, yuange86/heaven-world, yuange86/eller-time-bot, yuange86/ONC-E-
           plugin_stargazers: yes
           plugin_stars: yes
           plugin_stars_limit: 10
           plugin_traffic: yes
-          
-          
-          
